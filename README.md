@@ -1,4 +1,5 @@
 📦 Inventory Tracking System – Project Description
+
 🔹 Overview
 📌 A modern web-based inventory management system built to manage product stock efficiently.
 ⚛️ Developed using React with Vite for fast frontend development.
