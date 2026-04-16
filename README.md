@@ -49,6 +49,10 @@ Automatically highlights products when stock is below threshold.
 💼 Simulates industry-style inventory/admin dashboard.
 🎓 Ideal for academic final year / semester project submission.
 
+
+
+
+
 <img width="960" height="504" alt="React-1" src="https://github.com/user-attachments/assets/3bd5da2e-0a7e-4c3c-bb86-3f8a802dc62a" />
 
 <img width="960" height="504" alt="React-2" src="https://github.com/user-attachments/assets/a7ccc50b-4494-40d5-a0cb-2d9371669a6b" />
